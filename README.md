@@ -1,8 +1,11 @@
 # 🛠️ WiFi Handshake Capture Demo
 
-This is a demonstration of how to capture a WPA2 handshake using `aircrack-ng` tools.
+This project demonstrates how to capture a WPA2 WiFi handshake using tools from the `aircrack-ng` suite on Kali Linux.
 
-> ⚠️ This test was performed on **my own network** for educational purposes only.
+> ⚠️ **Disclaimer:** This demonstration is intended **strictly for educational and ethical testing purposes only**.  
+> All actions were performed on a private WiFi network owned by the author.  
+> Do **not** use these techniques on any network without **explicit permission** from the owner.  
+> Unauthorized access to networks is illegal and punishable by law.
 
 ---
 
